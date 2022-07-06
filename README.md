@@ -16,7 +16,6 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Github Badge](https://img.shields.io/badge/-Ajaypatelap1504@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaypatelap1504@gmail.com)](mailto:ajaypatelap1504@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Ajaypatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-patel-4934a9145/)](https://www.linkedin.com/in/ajay-patel-4934a9145/)
 [![Gmail Badge](https://img.shields.io/badge/-Ajaypatelap1504@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaypatelap1504@gmail.com)](mailto:ajaypatelap1504@gmail.com)
 
