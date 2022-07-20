@@ -1,6 +1,8 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Hi Everyone!!</h2>
+<h2 align=center>Hi👋 Everyone! I'm Ajay Patel</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaypatel-512&label=Profile%20views&color=0e75b6&style=flat" alt="Ajaypatel-512" /> </p>
 
 
 <!--ABOUT ME CODE-->
@@ -16,6 +18,8 @@
 🌱 I’m currently learning Android app development. <br>
 
 👯 I’m looking to collaborate on open-source projects.<br>
+
+📫 How to reach me **Ajaypatelap1504@gamil.com**<br>
 
 <br>
 
