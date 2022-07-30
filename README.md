@@ -29,7 +29,7 @@
 <!-- SOCAIL MEDIA HANDLES -->
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ajay-patel-4934a9145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AjayPatel512" height="20" width="25" /></a>
+<a href="https://www.linkedin.com/in/ajay-patel-4934a9145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AjayPatel512" height="20" width="25" /> </a>
 <a href="https://www.hackerrank.com/ap07512426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AjayPatel" height="30" width="40" /></a>
 <a href="https://leetcode.com/Ajay_Patel512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ajay_Patel512" height="25" width="25" /></a>
 </p>
