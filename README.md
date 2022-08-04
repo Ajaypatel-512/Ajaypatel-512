@@ -1,9 +1,19 @@
+<div align='right'>
+<p align="right" style="line-height:1em"> 
+   <img style="width:100px" src="https://komarev.com/ghpvc/?username=Ajaypatel-512&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ajay profile views" />
+</p>
+</div>
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>Hi👋 Everyone! I'm Ajay Patel</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaypatel-512&label=Profile%20views&color=0e75b6&style=flat" alt="Ajaypatel-512" /> </p>
+<div align='center'>
 
+###
+
+[![AJAY Portfolio](https://img.shields.io/badge/-My%20Portfolio-e4eff2?style=for-the-badge&logo=rss&logoColor=black)](https://ajaypatel-512.github.io/Personal_Portfolio/)
+
+</div>
 
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
@@ -19,19 +29,17 @@
 
 👯 I’m looking to collaborate on open-source projects.<br>
 
-📫 How to reach me **Ajaypatelap1504@gamil.com**<br>
 
 <br>
 
-🌱 **Connect Me**<br>
 
+<div align='center'>
 
+### <b>Let's Connect</b>
 <!-- SOCAIL MEDIA HANDLES -->
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ajay-patel-4934a9145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AjayPatel512" height="20" width="25" /> </a>
-<a href="https://www.hackerrank.com/ap07512426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AjayPatel" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ajay_Patel512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ajay_Patel512" height="25" width="25" /></a>
-</p>
-
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Ajaypatel-512)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ajay-patel-4934a9145/)
+[![Email](https://img.shields.io/badge/Email-AjayPatelap1504@gmail.com-8e62f5?style=for-the-badge&logoColor=)](mailto:Ajaypatelap1504@gmail.com)
+</div>
 
