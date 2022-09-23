@@ -25,7 +25,7 @@
 
 ✔️ I have experience in Front-End web development .<br>
 
-🌱 I’m currently learning Android app development. <br>
+🌱 I’m currently learning java development. <br>
 
 👯 I’m looking to collaborate on open-source projects.<br>
 
