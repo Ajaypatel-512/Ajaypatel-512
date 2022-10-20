@@ -1,11 +1,9 @@
 <div align='right'>
-<p align="right" style="line-height:1em"> 
-   <img style="width:100px" src="https://komarev.com/ghpvc/?username=Ajaypatel-512&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ajay profile views" />
-</p>
+
 </div>
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>Hi👋 Everyone! I'm Ajay Patel</h2>
+<h2 align=center>Hi👋 Everyone! I'm Ajay Patel 😎</h2>
 
 <div align='center'>
 
