@@ -14,25 +14,33 @@
 </div>
 
 <!--ABOUT ME CODE-->
-🌱 **About myself**<br>
-
-
-✔️ I am **Ajay Patel**, currently pursuing my bachelors of technology from SRIT,Jabalpur in *Infromation Technology*. <br>
-
-✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing programming. <br>
-
-✔️ I have experience in Front-End web development .<br>
-
-🌱 I’m currently learning java development. <br>
-
+<h3 align="left">👨🏻‍💻  About Me</h3>
+🎓  I am currently pursuing a B.Tech in Information Technology at Shri Ram Institute of Technology.<br>
+💡  I enjoy learning about new technologies and creating software solutions.<br>
+🌱  I'm on track to expand my knowledge in software design patterns, Backend Java Technologies and software development.<br>
 👯 I’m looking to collaborate on open-source projects.<br>
+✍️  In my spare time, I am very interested in programming and problem solving.<br>
+
+<br><br><br>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br><br>
 
 
-<br>
 
-
+<br> <br>
 <div align='center'>
-
 ### <b>Let's Connect</b>
 <!-- SOCAIL MEDIA HANDLES -->
 
