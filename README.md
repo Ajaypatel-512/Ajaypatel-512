@@ -49,3 +49,10 @@
 [![Email](https://img.shields.io/badge/Email-AjayPatelap1504@gmail.com-8e62f5?style=for-the-badge&logoColor=)](mailto:Ajaypatelap1504@gmail.com)
 </div>
 
+<p align="left">
+<a href="https://github.com/Ajaypatel-512">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ajaypatel-512&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ajaypatel-512&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
