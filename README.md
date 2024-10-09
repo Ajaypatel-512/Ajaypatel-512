@@ -15,10 +15,13 @@
 
 <!--ABOUT ME CODE-->
 <h3 align="left">👨🏻‍💻  About Me</h3>
-🎓  I am currently pursuing a B.Tech in Information Technology at Shri Ram Institute of Technology.<br>
+👋  Hi, I'm Ajay Patel, working at Hexaview Technology with 2️⃣ years of experience as a software developer.<br> 
+⚙️  My expertise lies in Java and its powerful frameworks, including Spring, Spring Boot, JPA, and JOOQ.<br>
+🧑‍💻  I've worked extensively with microservices architecture and REST APIs, helping clients build scalable and efficient systems.<br> 
+📧  My hands-on experience spans multiple client projects where I've collaborated with diverse teams to deliver high-quality solutions.<br>
+🎓  I complted my B.Tech in Information Technology from Shri Ram Institute of Technology in 2023.<br>
 💡  I enjoy learning about new technologies and creating software solutions.<br>
-🌱  I'm on track to expand my knowledge in software design patterns, Backend Java Technologies and software development.<br>
-👯 I’m looking to collaborate on open-source projects.<br>
+🚀 I’m always eager to learn, grow, and leverage new technologies to solve complex problems<br>
 ✍️  In my spare time, I am very interested in programming and problem solving.<br>
 
 <br><br><br>
