@@ -9,7 +9,7 @@
 
 ###
 
-[![AJAY Portfolio](https://img.shields.io/badge/-My%20Portfolio-e4eff2?style=for-the-badge&logo=rss&logoColor=black)](https://ajaypatel-512.github.io/Personal_Portfolio/)
+[![AJAY Portfolio](https://img.shields.io/badge/-My%20Portfolio-e4eff2?style=for-the-badge&logo=rss&logoColor=black)](https://ajaypatel-512.github.io/PersonalPortfolio/)
 
 </div>
 
